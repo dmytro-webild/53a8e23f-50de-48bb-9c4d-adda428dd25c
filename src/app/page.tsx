@@ -69,7 +69,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/side-view-man-washing-fruit_23-2149535094.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/side-view-man-washing-fruit_23-2149535094.jpg?_wi=1"
       imageAlt="Professional plumber smiling tools home"
       mediaAnimation="slide-up"
     />
@@ -92,7 +92,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/male-plumber-working-fix-problems-client-s-house_23-2150990696.jpg",
             imageAlt: "water heater installation home icon",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-washing-fruit_23-2149535094.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-washing-fruit_23-2149535094.jpg?_wi=2",
           imageAlt: "water heater installation home icon",
         },
         {
@@ -120,7 +120,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-vector/isometric-water-purification-technology-composition-with-icons-barrel-bottling-factory-buildings-lab-analysis-aeration-vector-illustration_1284-81082.jpg",
             imageAlt: "water quality filtration system icon",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/young-builder-man-construction-uniform-safety-helmet-looking-confident-pointing-with-index-fingers-down-self-satisfied_141793-28592.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-builder-man-construction-uniform-safety-helmet-looking-confident-pointing-with-index-fingers-down-self-satisfied_141793-28592.jpg?_wi=1",
           imageAlt: "water heater installation home icon",
         },
         {
@@ -149,7 +149,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Why Choose Fast Home Plumbing?"
       description="With over 89 positive reviews and a 4.7-star rating, we pride ourselves on transparency, speed, and high-quality workmanship. We treat every home as if it were our own."
-      imageSrc="http://img.b2bpic.net/free-photo/young-builder-man-construction-uniform-safety-helmet-looking-confident-pointing-with-index-fingers-down-self-satisfied_141793-28592.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-builder-man-construction-uniform-safety-helmet-looking-confident-pointing-with-index-fingers-down-self-satisfied_141793-28592.jpg?_wi=2"
       imageAlt="professional plumbing team uniform clean"
     />
   </div>
